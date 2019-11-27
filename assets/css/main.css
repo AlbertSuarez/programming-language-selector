@@ -18,7 +18,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, 0);
-    background: #29d8d8;
+    background: #333333;
     color: white;
     text-transform: uppercase;
     border: 0;
@@ -33,7 +33,7 @@ body {
 }
   
 .button:hover {
-    background: #27bdbd;
+    background: #333333;
 }
 
 .button--hide {
@@ -58,7 +58,7 @@ body {
   
 .success-screen {
     position: relative;
-    background: #29d8d8;
+    background: #333333;
     color: white;
     display: flex;
     align-items: center;
@@ -112,7 +112,7 @@ body {
 }
   
 .confetti__particle--rectangle {
-    background: #1e2632;
+    background: #009900;
     border-radius: 0;
     width: 40px;
     height: 14px;
