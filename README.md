@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/AlbertSuarez/programming-language-selector.svg)](https://GitHub.com/AlbertSuarez/programming-language-selector/network/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/AlbertSuarez/programming-language-selector.svg)](https://github.com/AlbertSuarez/programming-language-selector)
 
-👩‍💻 Dubious which programming language you should use for your next project? Let's the randomness do its magic with this [selector](https://asuarez.dev/programming-language-selector).
+👩‍💻 Dubious which programming language you should use for your next project? Let the randomness do its magic with this awesome[selector](https://asuarez.dev/programming-language-selector) that will choose for you!
 
 ## Motivation
 
@@ -15,6 +15,10 @@ This was originally created for the [Advent of Code](https://adventofcode.com/) 
 # Preview
 
 TODO
+
+## Merits
+
+The UI was mostly based on the awesome [Orry Baram codepen](https://codepen.io/orrybaram/pen/LxOMwG).
 
 ## Authors
 
