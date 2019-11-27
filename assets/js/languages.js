@@ -1,6 +1,8 @@
 const languages = [
     'Python',
     'Java',
+    'C++',
     'JavaScript',
-    'Go'
+    'Go',
+    'TypeScript'
 ]
