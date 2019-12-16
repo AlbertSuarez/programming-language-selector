@@ -5,5 +5,6 @@ const languages = [
     'JavaScript',
     'Go',
     'TypeScript',
-    'Scala'
+    'Scala',
+    'Kotlin'
 ]
