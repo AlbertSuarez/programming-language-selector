@@ -254,5 +254,5 @@ const languages = [
     'XQuery',
     'yacc',
     'Yorick',
-    'Z shell',
+    'Z shell'
 ]
